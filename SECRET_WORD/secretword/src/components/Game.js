@@ -1,9 +1,12 @@
 import './GameOver.css'
 
-const GameOver = () => {
+const Game = ({verifyLetter}) => {
   return (
-    <div>GameOver</div>
+    <div>
+    <h1>Game</h1>
+    <button onClick={verifyLetter}>Finalizar jogo!!</button>
+    </div>
   )
 }
 
-export default GameOver
+export default Game;
