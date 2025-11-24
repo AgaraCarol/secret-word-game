@@ -34,27 +34,7 @@ O Jogo da Palavra Secreta é uma aplicação web que desafia o jogador a adivinh
 
 ## Instalação e Execução
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/AgaraCarol/SECRET_WORD.git
-```
-
-2. Entre na pasta do projeto:
-```bash
-cd SECRET_WORD/secretword
-```
-
-3. Instale as dependências:
-```bash
-npm install
-```
-
-4. Execute o projeto:
-```bash
-npm start
-```
-
-5. Abra o navegador em http://localhost:3000
+1. Abra o navegador em https://agaracarol.github.io/secret-word-game/
 
 ## Autora
 
